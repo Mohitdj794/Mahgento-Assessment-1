@@ -1,1 +1,1 @@
-# Mahgento-Assessment-1
+# Magento-Assessment-1
